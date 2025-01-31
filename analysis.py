@@ -2,18 +2,18 @@ import pandas as pd
 
 # CSVファイルリスト（GitHubのdataフォルダにあると仮定）
 file_paths = [
-    'data/Data-2024-0924.csv',
-    'data/Data-2024-1001.csv',
-    'data/Data-2024-1008.csv',
-    'data/Data-2024-1015.csv',
-    'data/Data-2024-1022.csv',
-    'data/Data-2024-1029.csv',
-    'data/Data-2024-1105.csv',
-    'data/Data-2024-1112.csv',
-    'data/Data-2024-1126.csv',
-    'data/Data-2024-1203.csv',
-    'data/Data-2024-1210.csv',
-    'data/Data-2024-1217.csv'
+    'Data-2024-0924.csv',
+    'Data-2024-1001.csv',
+    'Data-2024-1008.csv',
+    'Data-2024-1015.csv',
+    'Data-2024-1022.csv',
+    'Data-2024-1029.csv',
+    'Data-2024-1105.csv',
+    'Data-2024-1112.csv',
+    'Data-2024-1126.csv',
+    'Data-2024-1203.csv',
+    'Data-2024-1210.csv',
+    'Data-2024-1217.csv'
 ]
 
 # 各CSVを読み込んで統合
